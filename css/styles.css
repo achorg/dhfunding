@@ -1,7 +1,20 @@
 body {
     max-width:900px;
     margin: 0 auto;
+    padding: 0 2em;
     color: #444;
     font-family: "Noto Serif", Georgia, serif;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead tr {
+    border-bottom: 3px solid #aaa;
+}
+
+tbody tr {
+    border-bottom: 1px solid #aaa;
+}
