@@ -9,10 +9,11 @@ N.B. *This list is a work in progress created and updated by you and me. If you 
 
 
 You might also want to keep your eyes on the following directories:
-+ [Foundation Center](http://foundationcenter.org/)
-+ [Grants.gov](http://grants.gov/)
-+ [DHNow Funding List](http://digitalhumanitiesnow.org/tag/funding/)
-+ [Harvard Digital Humanities Cafe](http://guides.library.harvard.edu/content.php?pid=173015&sid=1544294)
+
+* [Foundation Center](http://foundationcenter.org/)
+* [Grants.gov](http://grants.gov/)
+* [DHNow Funding List](http://digitalhumanitiesnow.org/tag/funding/)
+* [Harvard Digital Humanities Cafe](http://guides.library.harvard.edu/content.php?pid=173015&sid=1544294)
 
 
 # The NEH
