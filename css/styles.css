@@ -12,9 +12,14 @@ table {
 }
 
 thead tr {
-    border-bottom: 3px solid #aaa;
+    border-bottom: 3px solid #ccc;
 }
 
 tbody tr {
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #cc;
 }
+
+th,td {
+    padding: 0.25em 0;
+}
+
