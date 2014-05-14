@@ -1,9 +1,24 @@
 body {
-    max-width:900px;
+    max-width:700px;
     margin: 0 auto;
     padding: 0 2em;
     color: #444;
     font-family: "Noto Serif", Georgia, serif;
+}
+
+
+h1, h2, h3, h4 {
+    margin-top: 60px;
+}
+
+[role=banner] h1 {
+    margin-top:20px;
+}
+
+h1 + h2,
+h2 + h3,
+h3 + h4 {
+    margin-top:20px;
 }
 
 table {
@@ -16,14 +31,11 @@ thead tr {
 }
 
 tbody tr {
-    border-bottom: 1px solid #cc;
-}
-
-tr {
-    padding: 0.25em 0;
 }
 
 th, td {
+    padding: 0.5em;
     text-align:left;
+    border-bottom: 1px solid #ccc;
 }
 
