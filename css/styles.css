@@ -19,7 +19,11 @@ tbody tr {
     border-bottom: 1px solid #cc;
 }
 
-th,td {
+tr {
     padding: 0.25em 0;
+}
+
+th, td {
+    text-align:left;
 }
 
