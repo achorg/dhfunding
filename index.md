@@ -166,6 +166,11 @@ Although the Sloan Foundation has traditionally leaned towards the sciences, the
 
 Main website: http://www.nsf.gov/funding/
 
+| Grant         | Range(USD)        | Deadline|
+| ------------- | -------------| --------:|
+|[Documenting Endangered Languages (DEL)](http://www.nsf.gov/pubs/2014/nsf14580/nsf14580.htm?WT.mc_id=USNSF_25&WT.mc_ev=click)|4M/26-30|October, September|
+
+
 # Small Private Foundations
 
 | Foundation         | Range(USD)        | Deadline|
