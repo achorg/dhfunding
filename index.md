@@ -188,6 +188,11 @@ Main website: http://www.nsf.gov/funding/
 # Google
 In 2010 Google committed 1M to support the Digital Humanities for 2 years. We don't know if they have renewed their commitment, but here's [some info](http://googleblog.blogspot.com/2010/07/our-commitment-to-digital-humanities.html).
 
+# Crowdfunding
+Why not?
+[Experiment](https://experiment.com/)
+
+
 # Other Lists of Funding Opportunities
 
 * [Foundation Center](http://foundationcenter.org/)
