@@ -36,6 +36,7 @@ Email: <publicpgms@neh.gov>
 |[America's Historical and Cultural Organizations: Implementation Grants](http://www.neh.gov/grants/public/americas-historical-and-cultural-organizations-implementation-grants)|$100-400K|8/13/14|
 |[America's Media Makers: Development Grants](http://www.neh.gov/grants/public/americas-media-makers-development-grants)|$40-75K|8/13/14|
 |[America's Media Makers: Production Grants](http://www.neh.gov/grants/public/americas-media-makers-production-grants)|$100-650K|8/13/14|
+[Digital Projects for the Public](http://www.neh.gov/grants/public/digital-projects-the-public)|$30-100K|6/15|
 
 
 ## Division of Preservation and Access
