@@ -19,11 +19,11 @@ Email: <odh@neh.gov>
 
 | Grant         | Range (USD)        | Deadline|
 | ------------- | -------------| --------:|
-| [Digital Humanities Start-up Grants](http://www.neh.gov/grants/odh/digital-humanities-start-grants)  | $5-30K or $30-60K | 9/11/14 |
-| [Digital Humanities Implementation Grants](http://www.neh.gov/grants/odh/digital-humanities-implementation-grants) | $100-325K | 2/18/15 |
+| [Digital Humanities Start-up Grants](http://www.neh.gov/grants/odh/digital-humanities-start-grants)  | $5-30K or $30-60K | September |
+| [Digital Humanities Implementation Grants](http://www.neh.gov/grants/odh/digital-humanities-implementation-grants) | $100-325K | February |
 | [Digging into Data Challenge](http://www.diggingintodata.org/) | N/A | Passed |
-| [NEH/DFG Bi-Lateral Digital Humanities ](http://www.neh.gov/divisions/odh/grant-news/grant-opportunity-nehdfg-bilateral-digital-humanities-program)|$100-350K| 9/20/14 |
-| [Institutes for Advanced Topics in the Digital Humanities](http://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities)|$50-250K| 3/10/15 |
+| [NEH/DFG Bi-Lateral Digital Humanities ](http://www.neh.gov/divisions/odh/grant-news/grant-opportunity-nehdfg-bilateral-digital-humanities-program)|$100-350K|September |
+| [Institutes for Advanced Topics in the Digital Humanities](http://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities)|$50-250K| March |
 
 ## Division of Public Programs
 Main Website: http://www.neh.gov/divisions/public<br/>
@@ -32,11 +32,11 @@ Email: <publicpgms@neh.gov>
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[America's Historical and Cultural Organizations: Planning Grants](http://www.neh.gov/grants/public/americas-historical-and-cultural-organizations-planning-grants)|$40-75K| 8/13/14|
-|[America's Historical and Cultural Organizations: Implementation Grants](http://www.neh.gov/grants/public/americas-historical-and-cultural-organizations-implementation-grants)|$100-400K|8/13/14|
-|[America's Media Makers: Development Grants](http://www.neh.gov/grants/public/americas-media-makers-development-grants)|$40-75K|8/13/14|
-|[America's Media Makers: Production Grants](http://www.neh.gov/grants/public/americas-media-makers-production-grants)|$100-650K|8/13/14|
-[Digital Projects for the Public](http://www.neh.gov/grants/public/digital-projects-the-public)|$30-100K|6/15|
+|[America's Historical and Cultural Organizations: Planning Grants](http://www.neh.gov/grants/public/americas-historical-and-cultural-organizations-planning-grants)|$40-75K| August|
+|[America's Historical and Cultural Organizations: Implementation Grants](http://www.neh.gov/grants/public/americas-historical-and-cultural-organizations-implementation-grants)|$100-400K|August|
+|[America's Media Makers: Development Grants](http://www.neh.gov/grants/public/americas-media-makers-development-grants)|$40-75K|August|
+|[America's Media Makers: Production Grants](http://www.neh.gov/grants/public/americas-media-makers-production-grants)|$100-650K|August|
+[Digital Projects for the Public](http://www.neh.gov/grants/public/digital-projects-the-public)|$30-100K|June|
 
 
 ## Division of Preservation and Access
@@ -47,8 +47,8 @@ Email: <jwurl@neh.gov> (Joel Wurl); <jsternfeld@neh.gov> (Joshua Sternfeld)
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[Humanities Collections and Reference Resources](http://www.neh.gov/grants/preservation/humanities-collections-and-reference-resources)|max $350K| 7/17/14|
-|[Preservation and Access Research and Development](http://www.neh.gov/grants/preservation/preservation-and-access-research-and-development)|max $350K|5/1/14|
+|[Humanities Collections and Reference Resources](http://www.neh.gov/grants/preservation/humanities-collections-and-reference-resources)|max $350K|July|
+|[Preservation and Access Research and Development](http://www.neh.gov/grants/preservation/preservation-and-access-research-and-development)|max $350K|May|
 
 ## Division of Research Programs
 Main Website: http://www.neh.gov/divisions/research<br/>
@@ -56,10 +56,10 @@ Officers: Jane Aikin, Director [See also staff page](http://www.neh.gov/division
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[Fellowships](http://www.neh.gov/grants/research/fellowships)|$4,200/month|5/1/14|
-|[Summer Stipends](http://www.neh.gov/grants/research/summer-stipends)|$6,000 |9/30/14|
-|[Collaborative Research](http://www.neh.gov/grants/research/collaborative-research-grants)|$25-100K|9/30/14|
-|[Scholarly Editions and Translations](http://www.neh.gov/grants/research/scholarly-editions-and-translations-grants)|$50-100K/year|12/9/14|
+|[Fellowships](http://www.neh.gov/grants/research/fellowships)|$4,200/month|May|
+|[Summer Stipends](http://www.neh.gov/grants/research/summer-stipends)|$6,000 |September|
+|[Collaborative Research](http://www.neh.gov/grants/research/collaborative-research-grants)|$25-100K|September|
+|[Scholarly Editions and Translations](http://www.neh.gov/grants/research/scholarly-editions-and-translations-grants)|$50-100K/year|December|
 
 
 ## Division of Education Programs
@@ -68,9 +68,9 @@ Officers: William Craig Rice, Director [See also staff page](http://www.neh.gov/
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[Humanities Initiatives at Hispanic-Serving Institutions](http://www.neh.gov/grants/education/humanities-initiatives-hispanic-serving-institutions)|max $100K|6/26/14|
-|[Humanities Initiatives at Historically Black Colleges and Universities](http://www.neh.gov/grants/education/humanities-initiatives-historically-black-colleges-and-universities)|max $100K|6/26/14|
-|[Humanities Initiatives at Tribal Colleges and Universities ](http://www.neh.gov/grants/education/humanities-initiatives-tribal-colleges-and-universities)|max $100K|6/26/14|
+|[Humanities Initiatives at Hispanic-Serving Institutions](http://www.neh.gov/grants/education/humanities-initiatives-hispanic-serving-institutions)|max $100K|June|
+|[Humanities Initiatives at Historically Black Colleges and Universities](http://www.neh.gov/grants/education/humanities-initiatives-historically-black-colleges-and-universities)|max $100K|June|
+|[Humanities Initiatives at Tribal Colleges and Universities ](http://www.neh.gov/grants/education/humanities-initiatives-tribal-colleges-and-universities)|max $100K|June|
 
 # The Mellon Foundation
 ## Scholarly Communications and Information Technology
@@ -88,8 +88,8 @@ The mission of the American Council of Learned Societies is "the advancement of 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
 |[ACLS Digital Innovation Fellowships](http://www.acls.org/programs/digital/)|60K Stipends, 25K projects|September?|
-|[ACLS Fellowships](http://www.acls.org/programs/acls/)| $35-65K based on rank |9/26/13|
-|[ACLS Collaborative Research Fellowships](http://www.acls.org/programs/collaborative/)|Max 140K|9/26/13|
+|[ACLS Fellowships](http://www.acls.org/programs/acls/)| $35-65K based on rank |September|
+|[ACLS Collaborative Research Fellowships](http://www.acls.org/programs/collaborative/)|Max 140K|September|
 
 # Institute of Museum and Library Services
 From the IMLS home page: "The mission of IMLS is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement."
@@ -98,10 +98,10 @@ Main website: http://www.imls.gov/<br/>
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[National Leadership Grants for Museums](http://www.imls.gov/applicants/detail.aspx?GrantId=22)|$50-500K|12/2/13|
-|[National Leadership Grants for Libraries](http://www.imls.gov/applicants/detail.aspx?GrantId=14)|$50-500K|2/3/14|
-|[Sparks! Ignition Grants for Museums](http://www.imls.gov/applicants/detail.aspx?GrantId=23)|$10-25K|12/2/13|
-|[Sparks! Ignition Grants for Libraries](http://www.imls.gov/applicants/detail.aspx?GrantId=19)|$10-25K|2/3/14|
+|[National Leadership Grants for Museums](http://www.imls.gov/applicants/detail.aspx?GrantId=22)|$50-500K|December|
+|[National Leadership Grants for Libraries](http://www.imls.gov/applicants/detail.aspx?GrantId=14)|$50-500K|December|
+|[Sparks! Ignition Grants for Museums](http://www.imls.gov/applicants/detail.aspx?GrantId=23)|$10-25K|December|
+|[Sparks! Ignition Grants for Libraries](http://www.imls.gov/applicants/detail.aspx?GrantId=19)|$10-25K|December|
 
 # ACH/ADHO
 The [Association for Computers and the Humanities](http://ach.org/) is the US branch of the [Alliance for Digital Humanities Organizations](http://adho.org/). Together they provide much of the scaffolding for professional activities in the digital humanities in the United States and around the world, including some fellowship support.
@@ -109,7 +109,7 @@ The [Association for Computers and the Humanities](http://ach.org/) is the US br
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
 |[ACH Microgrants](http://ach.org/ach-microgrants)|$200-$500||
-|[ACH travel bursaries to DHSI](http://www.ach.org/grants-and-awards)|500 GBP|dependant on notification of acceptance for conference papers|
+|[ACH travel bursaries to DHSI](http://www.ach.org/grants-and-awards)|500 GBP|dependant on acceptance|
 |[ACH occasional sponsorship](http://www.ach.org/occasional-funding-sponsorship)|max. $500|rolling|
 |[ADHO Bursaries for the Annual DH Conference](http://adho.org/awards/conference-bursary-awards)|||
 
@@ -138,7 +138,7 @@ La FMSH a le plaisir d'annoncer le lancement d'un nouveau programme de bourses d
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[Transatlantic Program for DH 2013-2014](http://www.fmsh.fr/fr/c/4344)|Varies||
+|[Transatlantic Program for DH 2013-2014](http://www.fmsh.fr/fr/c/4344)|Varies|Varies|
 
 # Arcadia Fund
 Arcadia works to preserve near extinct languages, rare historical archives and museum quality artefacts.
