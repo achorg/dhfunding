@@ -3,9 +3,12 @@ layout: default
 title: Funding Opportunities for Digital Humanities
 ---
 
-Below is a work-in-progress list of funding opportunities for Digital Humanities work. Some of the funding opportunities listed below are meant to be used solely on digital humanities, in other cases some general funding for the humanities can be applied towards digital humanities work. This simplified list derives from the more detailed list compiled with the help of the community using [this shared spreadsheet on GoogleDocs](https://docs.google.com/spreadsheet/ccc?key=0AmgLcm5jfVhSdDZjRXBEN21sLXhKYnpQa2ZVSFQ2cWc&usp=sharing).
+Here is list of funding opportunities for Digital Humanities work. Some
+of the funding opportunities included are meant to be used solely on digital humanities, in other cases some general funding for the humanities can be applied towards digital humanities work. This simplified list derives from the more detailed list compiled with the help of the community using [this shared spreadsheet on GoogleDocs](https://docs.google.com/spreadsheet/ccc?key=0AmgLcm5jfVhSdDZjRXBEN21sLXhKYnpQa2ZVSFQ2cWc&usp=sharing).
 
 This list is a work in progress, and you can contribute! If you have a correction or an addition to make, please send an email to <dhfunding@ach.org> or add a ticket to [our issue tracker](http://github.com/achorg/dhfunding/issues).
+
+Developed by Alex Gil and Dennis Tenen, with support from the ACH.
 
 # The NEH
 
@@ -41,7 +44,7 @@ Email: <publicpgms@neh.gov>
 
 ## Division of Preservation and Access
 Main Website: http://www.neh.gov/divisions/preservation<br/>
-Officers: Nadina Gardner, Director[See also staff page](http://www.neh.gov/divisions/preservation/staff)<br/>
+Officers: Nadina Gardner, Director [See also staff page](http://www.neh.gov/divisions/preservation/staff)<br/>
 Email: <jwurl@neh.gov> (Joel Wurl); <jsternfeld@neh.gov> (Joshua Sternfeld)
 
 
@@ -108,7 +111,7 @@ The [Association for Computers and the Humanities](http://ach.org/) is the US br
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
-|[ACH Microgrants](http://ach.org/ach-microgrants)|$200-$500||
+|[ACH Microgrants](http://ach.org/grants-and-awards)|$200-$500||
 |[ACH travel bursaries to DHSI](http://www.ach.org/grants-and-awards)|500 GBP|dependant on acceptance|
 |[ACH occasional sponsorship](http://www.ach.org/occasional-funding-sponsorship)|max. $500|rolling|
 |[ADHO Bursaries for the Annual DH Conference](http://adho.org/awards/conference-bursary-awards)|||
@@ -202,3 +205,4 @@ Why not?
 * [DHNow Funding List](http://digitalhumanitiesnow.org/tag/funding/)
 * [Harvard Digital Humanities Cafe](http://guides.library.harvard.edu/content.php?pid=173015&sid=1544294)
 
+*[ACH]: Association for Computers and the Humanities

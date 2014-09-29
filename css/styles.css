@@ -15,6 +15,10 @@ h1, h2, h3, h4 {
     margin-top:20px;
 }
 
+h2 {
+    font-size: 125%;
+}
+
 h1 + h2,
 h2 + h3,
 h3 + h4 {
@@ -37,5 +41,25 @@ th, td {
     padding: 0.5em;
     text-align:left;
     border-bottom: 1px solid #ccc;
+}
+
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.audible {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px; width: 1px;
+    margin: -1px; padding: 0; border: 0;
+}
+
+#ach-home {
+    display:block;
+    width: 400px;
+    margin: 20px auto;
 }
 
