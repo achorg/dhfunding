@@ -8,7 +8,7 @@ of the funding opportunities included are meant to be used solely on digital hum
 
 This list is a work in progress, and you can contribute! If you have a correction or an addition to make, please send an email to <dhfunding@ach.org> or add a ticket to [our issue tracker](http://github.com/achorg/dhfunding/issues).
 
-Developed by Alex Gil and Dennis Tenen, with support from the ACH.
+Developed by **Alex Gil** and **Dennis Tenen**, with support from the ACH.
 
 # The NEH
 

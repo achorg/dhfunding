@@ -1,18 +1,26 @@
 body {
-    max-width:700px;
-    margin: 0 auto;
-    padding: 0 2em;
+    margin: 0;
+    padding:0;
     color: #444;
     font-family: "Noto Serif", Georgia, serif;
+    margin-right: auto;
+    background: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #33ddff), color-stop(50%, #33ddff), color-stop(50%, transparent)) repeat-x, -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #ff5533), color-stop(50%, #ff5533), color-stop(50%, transparent)) repeat-x, -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #ffbb33), color-stop(50%, #ffbb33), color-stop(50%, transparent)) repeat-x, -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #3c3c3c), color-stop(50%, #3c3c3c), color-stop(50%, transparent)) repeat-x, -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #3377ff), color-stop(50%, #3377ff), color-stop(50%, transparent)) repeat-x, -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #3c3c3c), color-stop(100%, #3c3c3c)) repeat-x;
+    background: -webkit-linear-gradient(left, #33ddff 0%, #33ddff 50%, transparent 50%) repeat-x, -webkit-linear-gradient(left, #ff5533 0%, #ff5533 50%, transparent 50%) repeat-x, -webkit-linear-gradient(left, #ffbb33 0%, #ffbb33 50%, transparent 50%) repeat-x, -webkit-linear-gradient(left, #3c3c3c 0%, #3c3c3c 50%, transparent 50%) repeat-x, -webkit-linear-gradient(left, #3377ff 0%, #3377ff 50%, transparent 50%) repeat-x, -webkit-linear-gradient(left, #3c3c3c, #3c3c3c) repeat-x;
+    background: -moz-linear-gradient(left, #33ddff 0%, #33ddff 50%, transparent 50%) repeat-x, -moz-linear-gradient(left, #ff5533 0%, #ff5533 50%, transparent 50%) repeat-x, -moz-linear-gradient(left, #ffbb33 0%, #ffbb33 50%, transparent 50%) repeat-x, -moz-linear-gradient(left, #3c3c3c 0%, #3c3c3c 50%, transparent 50%) repeat-x, -moz-linear-gradient(left, #3377ff 0%, #3377ff 50%, transparent 50%) repeat-x, -moz-linear-gradient(left, #3c3c3c, #3c3c3c) repeat-x;
+    background: -o-linear-gradient(left, #33ddff 0%, #33ddff 50%, transparent 50%) repeat-x, -o-linear-gradient(left, #ff5533 0%, #ff5533 50%, transparent 50%) repeat-x, -o-linear-gradient(left, #ffbb33 0%, #ffbb33 50%, transparent 50%) repeat-x, -o-linear-gradient(left, #3c3c3c 0%, #3c3c3c 50%, transparent 50%) repeat-x, -o-linear-gradient(left, #3377ff 0%, #3377ff 50%, transparent 50%) repeat-x, -o-linear-gradient(left, #3c3c3c, #3c3c3c) repeat-x;
+    background: linear-gradient(left, #33ddff 0%, #33ddff 50%, transparent 50%) repeat-x, linear-gradient(left, #ff5533 0%, #ff5533 50%, transparent 50%) repeat-x, linear-gradient(left, #ffbb33 0%, #ffbb33 50%, transparent 50%) repeat-x, linear-gradient(left, #3c3c3c 0%, #3c3c3c 50%, transparent 50%) repeat-x, linear-gradient(left, #3377ff 0%, #3377ff 50%, transparent 50%) repeat-x, linear-gradient(left, #3c3c3c, #3c3c3c) repeat-x;
+    -webkit-background-size: 57% 5px, 41% 5px, 37% 5px, 29% 5px, 13% 5px, 7% 5px, contain;
+    -moz-background-size: 57% 5px, 41% 5px, 37% 5px, 29% 5px, 13% 5px, 7% 5px, contain;
+    -o-background-size: 57% 5px, 41% 5px, 37% 5px, 29% 5px, 13% 5px, 7% 5px, contain;
+    background-size: 57% 5px, 41% 5px, 37% 5px, 29% 5px, 13% 5px, 7% 5px, contain;
+    background-position: -10% 0, -10% 0, -15% 0, -15% 0, -20% 0, -20% 0, bottom left;
+    padding-top: 5px;
+    background-color: #fff;
 }
 
 
 h1, h2, h3, h4 {
     margin-top: 60px;
-}
-
-[role=banner] h1 {
-    margin-top:20px;
 }
 
 h2 {
@@ -43,6 +51,20 @@ th, td {
     border-bottom: 1px solid #ccc;
 }
 
+a, a:link, a:visited {
+    color: #ff5533;
+}
+
+a:focus {
+    color: #ffbb33;
+}
+a:hover {
+    color: #ffbb33;
+}
+a:active {
+    color: #ff5533;
+}
+
 img {
     max-width: 100%;
     width: auto;
@@ -57,9 +79,41 @@ img {
     margin: -1px; padding: 0; border: 0;
 }
 
+#banner {
+    -mox-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing:border-box;
+    text-align:center;
+    padding: 40px 0;
+}
+
 #ach-home {
     display:block;
-    width: 400px;
-    margin: 20px auto;
+    width: 260px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#main {
+    max-width: 700px;
+    margin-left:auto;
+    margin-right:auto;
+    clear:both;
+    padding-left: 20px;
+    padding-right: 20px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#banner h1 {
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+}
+
+#banner h1 a {
+    text-decoration:none;
+    display:block;
+    padding: 40px 0;
 }
 
