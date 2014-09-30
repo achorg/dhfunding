@@ -107,7 +107,7 @@ Main website: http://www.imls.gov/<br/>
 |[Sparks! Ignition Grants for Libraries](http://www.imls.gov/applicants/detail.aspx?GrantId=19)|$10-25K|December|
 
 # ACH/ADHO
-The [Association for Computers and the Humanities](http://ach.org/) is the US branch of the [Alliance for Digital Humanities Organizations](http://adho.org/). Together they provide much of the scaffolding for professional activities in the digital humanities in the United States and around the world, including some fellowship support.
+The [Association for Computers and the Humanities](http://ach.org/) is a member of the [Alliance for Digital Humanities Organizations](http://adho.org/). Together they provide much of the scaffolding for professional activities in the digital humanities in the United States and around the world, including some fellowship support.
 
 | Grant         | Range(USD)        | Deadline|
 | ------------- | -------------| --------:|
