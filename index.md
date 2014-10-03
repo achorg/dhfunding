@@ -136,6 +136,17 @@ The Digital Media and Learning Competition is an effort designed to find and to 
 | ------------- | -------------| --------:|
 |[Digital Media and Learning Competition](http://www.hastac.org/competitions)|$10m (~100 projects)?|announced via facebook or twitter|
 
+# The Knight Foundation
+Though the Knight Foundation focuses on journalism and the arts, you may find that the intersections are worth pursuing. In 2014 for example, [the News Challenge](https://www.newschallenge.org/challenge/libraries/feedback) asked the question "How might we leverage libraries as a platform to build more knowledgeable communities?" 
+
+| Grant         | Range(USD)        | Deadline|
+| ------------- | -------------| --------:|
+|[Knight Community Information Challenge](http://www.knightfoundation.org/funding-initiatives/knight-community-information-challenge/)|||
+|[Knight News Challenge](https://newschallenge.org/)|share of $2.5M|October|
+|[Knight Arts](http://www.knightarts.org/about)||rolling|
+
+
+
 # Fondation Maison des Sciences de l'Homme
 La FMSH a le plaisir d'annoncer le lancement d'un nouveau programme de bourses dans les humanités numériques. Le programme financera exclusivement les projets de collaboration transatlantique entre les universités américaines et européennes. Il cofinancera jusqu'à 60% du coût total du projet par an.
 
